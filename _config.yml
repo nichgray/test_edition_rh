@@ -10,14 +10,12 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus 
 
 ### Site Structure
 
-baseurl: "/edition_base" # the subpath of your site
-url: "https://recoveryhub.github.io/" # should not change for Recovery Hub projects
+baseurl: "/test_edition_rh" # the subpath of your site
+url: "https://nichgray.github.io/" # should not change for Recovery Hub projects
 
 ### Contact
 
-project_pi: Grace Doe and Felicity Smith # This can be one or multiple names and will be listed in the footer by default
-twitter_username: AWWRecoveryHub # twitter name of the Recovery Hub
-github_username:  recoveryhub # github name of the Recovery Hub
+project_pi: Incognito # This can be one or multiple names and will be listed in the footer by default
 
 ### Site Setup / Defaults
 
